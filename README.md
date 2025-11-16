@@ -3,11 +3,26 @@
 ##### A plugin for [RuneLite](https://runelite.net/)
 
 Adds RS3 voiceovers to the Inferno, the Wardens (via Amascut), and Vorkath (via Zemouregal).
+
+Highly recommend using the [Music Replacer plugin](https://runelite.net/plugin-hub/show/music-replacer) to get RS3 music tracks as well for the best experience.
+
 ___
 
-<img width="458" height="288" alt="image" src="https://github.com/user-attachments/assets/2047363f-f43c-40b6-a1fc-1109d8f6d9d7" />
+### Zemouregal and Vorkath
 
-<img width="509" height="362" alt="image" src="https://github.com/user-attachments/assets/fecf01c8-8992-4434-8c4b-d275bd437f3f" />
+[![Zemouregal and Vorkath](https://img.youtube.com/vi/LTsvy4qEqnw/maxresdefault.jpg)](https://youtu.be/LTsvy4qEqnw)
+
+___
+
+### Amascut, the Devourer
+
+[![Amascut, the Devourer](https://img.youtube.com/vi/OZLkMRH7uVk/maxresdefault.jpg)](https://youtu.be/OZLkMRH7uVk)
+
+___
+
+### TzKal-Zuk
+
+I'm not doing inferno just to get footage for this, not with gridmaster gone. Go check it out yourself.
 
 ___
 
