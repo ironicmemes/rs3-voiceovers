@@ -10,13 +10,13 @@ ___
 
 ### Zemouregal and Vorkath
 
-[![Zemouregal and Vorkath](https://img.youtube.com/vi/LTsvy4qEqnw/maxresdefault.jpg)](https://youtu.be/LTsvy4qEqnw)
+[![Zemouregal and Vorkath](https://img.youtube.com/vi/LTsvy4qEqnw/hqdefault.jpg)](https://youtu.be/LTsvy4qEqnw)
 
 ___
 
 ### Amascut, the Devourer
 
-[![Amascut, the Devourer](https://img.youtube.com/vi/OZLkMRH7uVk/maxresdefault.jpg)](https://youtu.be/OZLkMRH7uVk)
+[![Amascut, the Devourer](https://img.youtube.com/vi/OZLkMRH7uVk/hqdefault.jpg)](https://youtu.be/OZLkMRH7uVk)
 
 ___
 
