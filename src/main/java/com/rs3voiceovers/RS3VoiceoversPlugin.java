@@ -685,7 +685,7 @@ public class RS3VoiceoversPlugin extends Plugin {
                             soundEngine.playClip(Sound.AMASCUT_ZEBAK_1, executor);
                             break;
                         case 1:
-                            addOverheadText(fakeNpc,"Amascut", "Crondis... It should have never come to this.");
+                            addOverheadText(fakeNpc,"Amascut", "Crondis... It should never have come to this.");
                             soundEngine.playClip(Sound.AMASCUT_ZEBAK_2, executor);
                             break;
                     }
@@ -1345,3 +1345,4 @@ public class RS3VoiceoversPlugin extends Plugin {
 		return configManager.getConfig(RS3VoiceoversConfig.class);
 	}
 }
+
