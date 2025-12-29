@@ -14,7 +14,6 @@ public interface RS3VoiceoversConfig extends Config
             keyName = "voiceoverVolume",
             name = "Voiceover volume",
             description = "Adjust how loud audio voiceovers are played."
-            //section = SECTION_GENERAL_ANNOUNCEMENT_SETTINGS,
     )
     default int voiceoverVolume() {
         return 30;
@@ -150,3 +149,4 @@ public interface RS3VoiceoversConfig extends Config
 
 
 }
+
