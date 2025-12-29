@@ -31,8 +31,7 @@ public class RS3VoiceoversOverlay extends Overlay {
     @Getter @Setter
     private RuneLiteObject runeLiteObject;
 
-    public RS3VoiceoversOverlay(Client client)
-    {
+    public RS3VoiceoversOverlay(Client client) {
         this.client = client;
 
         setPosition(OverlayPosition.DYNAMIC);
@@ -40,8 +39,7 @@ public class RS3VoiceoversOverlay extends Overlay {
     }
 
     @Override
-    public Dimension render(Graphics2D g)
-    {
+    public Dimension render(Graphics2D g) {
         if (runeLiteObject == null)
             return null;
 
@@ -59,8 +57,7 @@ public class RS3VoiceoversOverlay extends Overlay {
 
         Point canvasPoint = Perspective.localToCanvas(client, localPoint, plane, heightOffset);
 
-        if (canvasPoint == null)
-        {
+        if (canvasPoint == null) {
             return null;
         }
 
@@ -74,7 +71,6 @@ public class RS3VoiceoversOverlay extends Overlay {
         g.drawString(overheadText, x + 1, y + 1);
         g.setColor(Color.YELLOW);
         g.drawString(overheadText, x, y);
-
 
         return null;
     }
